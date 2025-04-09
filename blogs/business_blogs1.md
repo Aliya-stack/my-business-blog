@@ -8,6 +8,6 @@ Hello, world! This is my first blog post using GitHub Markdown.
 - No coding needed
 - Works beautifully with GitHub Pages
 
-![My Image](smart.jpg)
+![My Image]../srnty.jpg
 
 Thanks for visiting!
