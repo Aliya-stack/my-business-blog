@@ -10,7 +10,8 @@ Hello, world! This is my first blog post using GitHub Markdown.
 
 ## Here’s a photo of a kitten:
 
-![My Kitten](../srnty.jpg)
+## Here's a photo of a kitten:
 
+![My Kitten](../srnty.jpg)
 
 Thanks for visiting!
