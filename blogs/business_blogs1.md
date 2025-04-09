@@ -8,6 +8,6 @@ Hello, world! This is my first blog post using GitHub Markdown.
 - No coding needed
 - Works beautifully with GitHub Pages
 
-![My Kitten](https://raw.githubusercontent.com/Aliya-stack/my-business-blog/main/srnty.jpg)
+![My Image](smart.jpg)
 
 Thanks for visiting!
