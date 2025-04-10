@@ -183,7 +183,7 @@ Both companies had the resources to succeed - but lacked the clarity to use them
 
 So while this section tried to analyze what went wrong on paper, the bigger story is still human:
 
-→Tools without intent.
+→ Tools without intent.
 → Teams without purpose.
 → Movement without momentum.
 
