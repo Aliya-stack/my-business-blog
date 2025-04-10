@@ -61,11 +61,9 @@ Strategy replaced by improvisation.
 
 #### Real Data That Now Makes Sense
 
-**Zinnov(2023)**: 40% of Indian SaaS startups suffer from tool redundancy and confusion.
-
-**Microsoft India (2022)**: Employees lose up to 8 hours a week in unproductive meetings.
-
-**Gartner (2023)**: 30% of software subscriptions go underutilized or completely wasted.
+- **Zinnov(2023)**: 40% of Indian SaaS startups suffer from tool redundancy and confusion.
+- **Microsoft India (2022)**: Employees lose up to 8 hours a week in unproductive meetings.
+- **Gartner (2023)**: 30% of software subscriptions go underutilized or completely wasted.
 
 #### What I Learned
 
@@ -130,10 +128,10 @@ From the inside, it was like **freefall**.
 
 #### Data That Hit Hard
 
-₹6,000+ crore loss in FY22 **(Business Today, 2023)**
-3,500+ layoffs in 2023 **(Economic Times)**
-Decline in app downloads after WhiteHat Jr. merger **(Entrackr)**
-59% of Indian SMEs underutilize CRMs **(Salesforce India, 2022)**
+- ₹6,000+ crore loss in FY22 **(Business Today, 2023)**
+- 3,500+ layoffs in 2023 **(Economic Times)**
+- Decline in app downloads after WhiteHat Jr. merger **(Entrackr)**
+- 59% of Indian SMEs underutilize CRMs **(Salesforce India, 2022)**
 
 #### What I Learned
 
