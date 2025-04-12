@@ -1,5 +1,5 @@
 # The Dreams That Changed Me  
-*A journey not just of hijab — but of divine direction.*
+*A journey not just of hijab, but of divine direction.*
 
 I wasn't a hijabi growing up.  
 Yes, I wore the burqa.  
